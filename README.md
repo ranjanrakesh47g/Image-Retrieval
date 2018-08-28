@@ -13,7 +13,7 @@ It consisted of around 10,000 images distributed among 101 categories.
 
 
 ## Model:
-VGG16 and Resnet50 models pretrained on ImageNet were used to obtain representations of the images.
+(1) VGG16 and (2) Resnet50 models pretrained on ImageNet were used to obtain representations of the images.
 
 
 ## Further steps:
