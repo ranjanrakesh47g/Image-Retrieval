@@ -17,6 +17,6 @@ It consisted of around 10,000 images distributed among 101 categories.
 
 
 ## Further steps:
-The representations were transformed into 300-length-vector using PCA.
+The representations were transformed into 800-length-vector using PCA.
 
-Thereafter, distances were calculated between the query image and all other images in the database using the 300-length-vector represenatation of the images. And, images corresponding to least distances were returned.
+Thereafter, distances were calculated between the query image and all other images in the database using the 800-length-vector represenatation of the images. And, images corresponding to least distances were returned.
